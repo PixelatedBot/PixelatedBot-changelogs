@@ -7,4 +7,5 @@ Added GuildCreate Notification for devs only
 Added Guild Premium System
 Coming Soon 
 Message to Owner of the guild who invites the bot 
+WE ARE INVSIGATING A PROBLEM WITH THE BOTS PING 
 ------------------------------------------------------------------------
