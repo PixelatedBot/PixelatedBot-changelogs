@@ -9,3 +9,5 @@ Coming Soon
 Message to Owner of the guild who invites the bot 
 WE ARE INVSIGATING A PROBLEM WITH THE BOTS PING 
 ------------------------------------------------------------------------
+Changelog of 07/09/2023
+Added AnitNuke Protection to bot Premium Users Only
