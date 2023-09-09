@@ -12,3 +12,6 @@ WE ARE INVSIGATING A PROBLEM WITH THE BOTS PING
 Changelog of 07/09/2023
 Added AnitNuke Protection to bot Premium Users Only
 Added Embed-builder for admin user only
+------------------------------------------------------------------------
+Changelog of 09/09/2023
+Fixed Slash Command giving error Unkown Interaction
